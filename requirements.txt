@@ -1,0 +1,11 @@
+# Shared image processing used by all scripts
+Pillow>=10.0
+numpy>=1.26
+
+# HTML rendering and layered PSD pipeline
+playwright>=1.40
+pytoshop>=1.2.1
+six>=1.16
+
+# Optional: PSD read-back validation
+psd-tools>=1.9

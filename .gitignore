@@ -1,0 +1,19 @@
+# 渲染管线过程产物
+out/
+page_layers/
+build/
+
+# 运行时预览与状态
+*.tmp
+preview*.png
+rotation.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db
